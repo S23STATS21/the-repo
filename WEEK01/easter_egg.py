@@ -2,6 +2,8 @@
 # if you are looking at this in week 1, I will assume you already know how to do that...
 import turtle
 
+# I cannot import turtle
+
 # create a turtle object assign it to "t"
 t = turtle.Turtle()
 
